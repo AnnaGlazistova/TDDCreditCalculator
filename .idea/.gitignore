@@ -5,5 +5,5 @@
 /jarRepositories.xml
 /misc.xml
 /vcs.xml
-/pom.xml
+pom.xml
 target/
